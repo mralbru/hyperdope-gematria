@@ -47,7 +47,7 @@ cipherList = [
       22, 23, 24, 25, 26,
     ],
     true,
-    true,
+    false,
     false
   ),
   new cipher(
@@ -65,7 +65,7 @@ cipherList = [
       8,
     ],
     true,
-    true,
+    false,
     false
   ),
   new cipher(
@@ -215,7 +215,7 @@ cipherList = [
       7, 6, 5, 4, 3, 2, 1,
     ],
     true,
-    true,
+    false,
     false
   ),
   new cipher(
@@ -233,7 +233,7 @@ cipherList = [
       1,
     ],
     true,
-    true,
+    false,
     false
   ),
   new cipher(
@@ -1189,7 +1189,7 @@ cipherList = [
       22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33,
     ],
     false,
-    false,
+    true,
     false
   ),
   new cipher(
@@ -1208,7 +1208,7 @@ cipherList = [
       8, 9, 1, 2, 3, 4, 5, 6,
     ],
     false,
-    false,
+    true,
     false
   ),
   new cipher(
@@ -1227,7 +1227,7 @@ cipherList = [
       15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1,
     ],
     false,
-    false,
+    true,
     false
   ),
   new cipher(
@@ -1246,7 +1246,7 @@ cipherList = [
       8, 7, 6, 5, 4, 3, 2, 1,
     ],
     false,
-    false,
+    true,
     false
   ),
   new cipher(
